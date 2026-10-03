@@ -1,0 +1,1 @@
+Extrair o ZIP e carregar o CONTEUDO (index.html, 404.html, assets...) na raiz do repositorio. O GitHub nao descompacta ZIPs.
